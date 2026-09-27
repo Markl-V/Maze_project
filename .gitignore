@@ -1,0 +1,12 @@
+.env
+db.sqlite3
+node_modules
+python_modules
+/dist
+*.log
+*.tmp
+public/uploads/*
+!public/uploads/.gitkeep
+storage/reports/*
+!storage/reports/template.xlsx
+/config
